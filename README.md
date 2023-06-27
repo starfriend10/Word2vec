@@ -12,4 +12,4 @@ Hyperparameter: min_count and threshold are set, but can be changed or included 
 
 Supervised learning: the code includes two different datasets to supervise the modeling performance. A dataset of similar terms and a dataset of opponenet terms. The model performance is calculated based on the similarty difference.
 
-All the details and explnanation can be found in the published paper. Also check supporting information for additional materials. [https://github.com/starfriend10/Word2vec/blob/main/Zhu%20and%20Ren%20(2023)%20Supporting%20Information.docx]
+All the details and explnanation can be found in the published paper. Also check [supporting information](https://github.com/starfriend10/Word2vec/blob/main/Zhu%20and%20Ren%20(2023)%20Supporting%20Information.docx) for additional materials.
