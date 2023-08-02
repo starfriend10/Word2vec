@@ -1,5 +1,5 @@
 # Word2vec modeling
-Share the core code for Word2vec modeling of research papers. The code template only includes the main part and framework for the final Word2vec modeling, while there should include necessary steps of textual data preprocessing before adopting the code. If you use any of the part or believe it is useful, please give credit to:
+Share the core code for Word2vec modeling of RCR research papers. The code template only includes the main part and framework for the final Word2vec modeling, while there should include necessary steps of textual data preprocessing before adopting the code. If you use any of the part or believe it is useful, please give credit to:
 
 Zhu, J.-J., & Ren, Z. J. (2023). The evolution of research in Resources, Conservation & Recycling revealed by Word2vec-enhanced data mining. Resources, Conservation & Recycling, 190, 106876. https://doi.org/10.1016/j.resconrec.2023.106876.
 
