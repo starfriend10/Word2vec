@@ -8,7 +8,7 @@ Data: The modeling was based on title, abstract, and keywords, but may be modifi
 
 Hyperparameter: min_count and threshold are set, but can be changed or included in the hyperparameter optimization. The provided code was used to search the best model structure of n_feature, window, epochs, and alpha. An example of HPO in the study is shown below:
 
-<img src="https://github.com/starfriend10/Word2vec/blob/main/HPO_scores_m2.jpg" width="1200">
+<img src="https://github.com/starfriend10/Word2vec/blob/main/HPO_scores.jpg" width="1200">
 
 Supervised learning: the code includes two different datasets to supervise the modeling performance. A dataset of similar terms and a dataset of opponenet terms. The model performance is calculated based on the similarty difference.
 
